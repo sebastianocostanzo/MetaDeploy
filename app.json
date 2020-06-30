@@ -67,9 +67,6 @@
     },
     "scheduler": {
       "quantity": 1
-    },
-    "devworker": {
-      "quantity": 1
     }
   },
   "addons": [
